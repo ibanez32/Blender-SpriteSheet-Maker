@@ -58,7 +58,7 @@ When you click `Export Sprite Sheet`, the add-on will render the animation and g
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the Creative Commons Zero v1.0 Universal. See the `LICENSE` file for more details.
 
 ## Contributing
 
@@ -66,5 +66,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to open an issue on the [GitHub repository](https://github.com/your-repo-link).
+If you encounter any issues or have any questions, feel free to open an issue on the [GitHub repository](https://github.com/ibanez32/Blender-SpriteSheet-Maker).
 
